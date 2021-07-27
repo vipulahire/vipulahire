@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js.**
 
-- 👨‍💻 All of my projects are available at [vipulahire.github.io](vipulahire.github.io)
+- 👨‍💻 All of my projects are available at vipulahire.github.io
 
 - 📫 How to reach me **vipulbahire1@gmail.com**
 
